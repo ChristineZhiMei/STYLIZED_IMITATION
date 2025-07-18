@@ -1,0 +1,2 @@
+# STYLIZED_IMITATION
+模仿风格化设计页面
